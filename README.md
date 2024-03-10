@@ -1,0 +1,2 @@
+# FirstProjectDjango
+Учебный проект
